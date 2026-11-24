@@ -7,7 +7,7 @@ I'm a Computer Engineering student
 - **Embedded & hardware:** Arduino · ESP32 · Raspberry Pi 5 · GPIO/PWM · I²C · relays & MOSFET drivers · Multisim
 - **Machine learning:** TensorFlow / Keras · TensorFlow Lite · OpenCV · CNNs & transfer learning
 - **Networking:** OSPF · BGP · SNMPv3 · Cisco Packet Tracer · GNS3 · VyOS · OpenDaylight · Wireshark
-- **Programming:** Python · C/C++ (Arduino) · PowerShell · Bash
+- **Programming:** Python · C/C++ (Arduino) · PowerShell · Bash · Java · SQL
 - **Optimisation & analysis:** NetworkX · PuLP (linear programming) · pandas · Matplotlib
 
 ## 🚀 Projects
